@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **sql**
 
-- 👨‍💻 All of my projects are available at [mi portfolio]("https://www.portfolio-jonathan-chorolque.netlify.app/)
+- 👨‍💻 All of my projects are available at [mi portfolio](https://www.portfolio-jonathan-chorolque.netlify.app/)
 
 - 💬 Ask me about **html, css, js, react**
 
